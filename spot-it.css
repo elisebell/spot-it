@@ -109,8 +109,7 @@ textarea {
     float:left;
 }
 .bigtext .card__item {
-    font-family: 'Comic Sans MS';
-    font-size:30px;
+    font-size:45px;
     /* if they want big text, don't crop it off */
     border-radius: 0 !important;
     overflow: visible !important;
